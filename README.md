@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently a 5th year PhD student in Dr. Adam Printz' group at the University of Arizona.
+
 <!--
 **MatthewDailey1/MatthewDailey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
